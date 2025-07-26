@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
-
-
-# To-Do List Manager
-# Created by Siddarth Loni
-# Mini Project for Internship - June 2025
 
 import json
 import os
